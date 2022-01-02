@@ -1,2 +1,2 @@
 # rsschool-cv
-My CV
+My CV https://EvgeniySad.github.io/rsschool-cv/CV
