@@ -12,3 +12,12 @@ I have the ability to work in a team. I am sociable. The sense of responsibility
 * HTML (Basic)
 * CSS (Basic)
 * Git (Basic)
+## Code Example
+function multiply(a,b) {
+return a*b;
+}
+## Education
+* University: Stavropol State Agrarian University
+* School: Municipal educational institution secondary school - number 21
+## English 
+* A1
