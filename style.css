@@ -25,3 +25,57 @@
     display:flex;
     flex-direction: row-reverse;
 }
+.name {
+   color: rgb(42, 43, 43);
+   justify-content:flex-end;
+   font-size: 32px;
+   align-self:flex-end;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    padding: 20px 0px 20px 0px;
+}
+.ul {
+   display: flex;
+   justify-content: space-between;
+   flex-grow: 1;
+   margin:auto;
+}
+.li {
+    display: inline;
+}
+.image {
+    height: 200px;
+    width: 130px;
+    align-self: flex-end;
+}
+.contacts {
+    border: 2px solid rgb(45, 65, 20);
+    font-size: 22px;
+}
+.skills {
+    border: 2px solid rgb(45, 65, 20);
+    font-size: 22px;
+}
+.myself {
+    border: 2px solid rgb(45, 65, 20);
+    font-size: 22px;
+}
+.education {
+    border: 2px solid rgb(45, 65, 20);
+    font-size: 22px;
+}
+.code {
+    border: 2px solid rgb(45, 65, 20);
+    font-size: 22px;
+}
+.li1 {
+    border: 2px solid rgb(49, 49, 49);
+    font-size: 22px;
+}
+.logo {
+width: 100px;
+height: 200px;
+}
